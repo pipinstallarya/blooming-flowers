@@ -2,4 +2,4 @@
 
 Send flowers to a loved one.
 
-![GIF]("https://github.com/aryashah2k/blooming-flowers/blob/main/assets/splash.gif")
+<img align="" height='150px' src="https://github.com/aryashah2k/blooming-flowers/blob/main/assets/splash.gif" />
